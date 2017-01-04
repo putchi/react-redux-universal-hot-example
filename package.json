@@ -193,7 +193,7 @@
     "karma-webpack": "^1.8.0",
     "less": "^2.7.1",
     "less-loader": "^2.2.3",
-    "lighthouse": "^1.2.2",
+    "lighthouse": "^1.4.0",
     "mocha": "^3.2.0",
     "node-sass": "^4.0.0",
     "phantomjs-polyfill": "^0.0.2",
